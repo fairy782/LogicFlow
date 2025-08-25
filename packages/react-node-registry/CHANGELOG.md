@@ -1,5 +1,18 @@
 # @logicflow/react-node-registry
 
+## 1.1.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @logicflow/core@2.1.1
+
+## 1.1.0
+
+### Patch Changes
+
+- fix: 修复issue反馈的bug&支持小地图展示vue节点
+
 ## 1.0.18
 
 ### Patch Changes

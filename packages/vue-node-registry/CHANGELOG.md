@@ -1,5 +1,19 @@
 # @logicflow/vue-node-registry
 
+## 1.1.1
+
+### Patch Changes
+
+- fix: 修复点击节点会触发多选的问题和vue-node-registry引入报错问题
+- Updated dependencies
+  - @logicflow/core@2.1.1
+
+## 1.1.0
+
+### Patch Changes
+
+- fix: 修复issue反馈的bug&支持小地图展示vue节点
+
 ## 1.0.18
 
 ### Patch Changes
